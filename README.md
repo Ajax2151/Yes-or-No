@@ -4,7 +4,7 @@ Yes or No is a game based on the Game Changers episode (Dropout TV, Game Changer
 
 ## Game Rules
 
-Like the Game Changers episode, there is only one question: Yes, or No? The player chooses one of these options. The samBot confirms whether the answer is correct.
+Like the Game Changer episode, there is only one question: Yes, or No? The player chooses one of these options. The samBot confirms whether the answer is correct.
 
 ## Acknowledgement
 
